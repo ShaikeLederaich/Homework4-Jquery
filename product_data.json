@@ -1,0 +1,146 @@
+[
+  {
+    "productName": "Samsung A70",
+    "productId": "1",
+    "category": "Samsung Smartphones",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis labore? Officiis voluptatem tempore labore?",
+    "price": "1300",
+    "picName": "./images/samsungA70.jpg"
+  },
+  {
+    "productName": "Samsung Galaxy 10 Plus",
+    "productId": "2",
+    "category": "Samsung Smartphones",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis labore? Officiis voluptatem tempore labore?",
+    "price": "2700",
+    "picName": "./images/SamsungGalaxy10Plus.jpg"
+  },
+  {
+    "productName": "Samsung Note 10 Plus",
+    "productId": "3",
+    "category": "Samsung Smartphones",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis labore? Officiis voluptatem tempore labore?",
+    "price": "3600",
+    "picName": "./images/samsungNote10Plus.jpg"
+  },
+  {
+    "productName": "Samsung Note 9",
+    "productId": "4",
+    "category": "Samsung Smartphones",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis labore? Officiis voluptatem tempore labore?",
+    "price": "2200",
+    "picName": "./images/samsungNote9.jpg"
+  },
+  {
+    "productName": "Apple Iphone 11 Pro Max",
+    "productId": "5",
+    "category": "Apple Smartphones",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis labore? Officiis voluptatem tempore labore?",
+    "price": "5300",
+    "picName": "./images/AppleIphone11.jpg"
+  },
+  {
+    "productName": "Apple Iphone XR",
+    "productId": "6",
+    "category": "Apple Smartphones",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis labore? Officiis voluptatem tempore labore?",
+    "price": "2200",
+    "picName": "./images/appleIphoneXR.jpg"
+  },
+  {
+    "productName": "Google Pixel 4",
+    "productId": "7",
+    "category": "Google Smartphones",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis labore? Officiis voluptatem tempore labore?",
+    "price": "3900",
+    "picName": "./images/googlePixel4.jpg"
+  },
+  {
+    "productName": "Huawei Mate 20 Pro",
+    "productId": "8",
+    "category": "Huawei Smartphones",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis labore? Officiis voluptatem tempore labore?",
+    "price": "2700",
+    "picName": "./images/HuaweiMate20Pro.jpg"
+  },
+  {
+    "productName": "Huawei Nova 5T",
+    "productId": "9",
+    "category": "Huawei Smartphones",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis labore? Officiis voluptatem tempore labore?",
+    "price": "1600",
+    "picName": "./images/huawei-nova-5t.jpg"
+  },
+  {
+    "productName": "Huawei P30 Pro",
+    "productId": "10",
+    "category": "Huawei Smartphones",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis labore? Officiis voluptatem tempore labore?",
+    "price": "2800",
+    "picName": "./images/HuaweiP30Pro.jpg"
+  },
+  {
+    "productName": "LG G8X ThinQ",
+    "productId": "11",
+    "category": "LG Smartphones",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis labore? Officiis voluptatem tempore labore?",
+    "price": "3150",
+    "picName": "./images/LG-G8X-ThinQ-and-LG-Dual-Screen_04.jpg"
+  },
+  {
+    "productName": "LG G8 ThinQ",
+    "productId": "12",
+    "category": "LG Smartphones",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis labore? Officiis voluptatem tempore labore?",
+    "price": "2200",
+    "picName": "./images/LG-G8ThinQ.jpg"
+  },
+  {
+    "productName": "LG V40",
+    "productId": "13",
+    "category": "LG Smartphones",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis labore? Officiis voluptatem tempore labore?",
+    "price": "2300",
+    "picName": "./images/LGV40.jpg"
+  },
+  {
+    "productName": "OnePlus 7 Pro",
+    "productId": "14",
+    "category": "OnePlus Smartphones",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis labore? Officiis voluptatem tempore labore?",
+    "price": "1800",
+    "picName": "./images/oneplus-7-pro-gray-mdk_1.jpg"
+  },
+  {
+    "productName": "OnePlus 7T Pro",
+    "productId": "15",
+    "category": "OnePlus Smartphones",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis labore? Officiis voluptatem tempore labore?",
+    "price": "2200",
+    "picName": "./images/onePlus7TPro.jpg"
+  },
+  {
+    "productName": "Xiaomi Mi 9T",
+    "productId": "16",
+    "category": "Xiaomi Smartphones",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis labore? Officiis voluptatem tempore labore?",
+    "price": "1200",
+    "picName": "./images/XiaomiMi9T.jpg"
+  },
+  {
+    "productName": "Xiaomi Mi A3",
+    "productId": "17",
+    "category": "Xiaomi Smartphones",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis labore? Officiis voluptatem tempore labore?",
+    "price": "700",
+    "picName": "./images/XiaomiMiA3.jpg"
+  },
+  {
+    "productName": "Xiaomi Redmi Note 8",
+    "productId": "18",
+    "category": "Xiaomi Smartphones",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis labore? Officiis voluptatem tempore labore?",
+    "price": "650",
+    "picName": "./images/XiaomiRedmiNote8.jpg"
+  }
+]

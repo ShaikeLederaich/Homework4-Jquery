@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>JQUERY & Ajax HW4</title>
+    <!--%-------------------Bootstarp----------------------------->
+    <link rel="stylesheet" href="bootstrap.min.css" />
+    <!--%------------------JQUERY Google CDN---------------------->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <style>
+      body {
+        background-color: rgb(134, 202, 171);
+      }
+      h1 {
+        color: rgb(193, 218, 185);
+        background-color: darkturquoise;
+        text-shadow: 2px 2px 3px red;
+        font-size: 4rem;
+      }
+      /* #totalItems {
+        color: rgb(130, 233, 236);
+        text-align: center;
+        text-shadow: 3px 4px 3px rgb(29, 5, 54);
+        border: 2px solid black;
+        border-radius: 15px;
+        padding: 2px;
+        margin-top: 10px;
+        font-size: 3rem;
+        background-color: rgb(206, 138, 13);
+      } */
+      /* #totalItems>p>span {
+        color: rgb(241, 11, 145);
+        text-shadow: -1px 3px 5px rgb(4, 12, 75);
+      } */
+      /* .card-body>span {
+        color: rgb(194, 149, 214);
+        border: 2px double rgb(4, 37, 37);
+        border-radius: 15px;
+        font-size: 2rem;
+        padding: 4px;
+        background-color: rgb(11, 57, 184);
+      } */
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1 class="text-center">Bee-Joom-boom Cellular</h1>
+      <div class="container">
+        <div class="row">
+          <div class="col col-md-6 mx-auto">
+            <select
+              class="form-control custom-select custom-select-lg mt-2"
+              name="category"
+              id="category"
+            >
+              <option value="0" selected>Select Category</option>
+            </select>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section>
+      <div class="container">
+        <div class="row mt-3 ml-3" id="result"></div>
+        <div id="totalItems" class="col-md-4 mx-auto"></div>
+      </div>
+    </section>
+
+    <script type="module" src="JS/main.js"></script>
+  </body>
+</html>
